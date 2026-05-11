@@ -33,4 +33,4 @@ This GitHub is where I keep small, opinionated tools I build to think clearly ab
 
 ### Outside this repo
 
-LinkedIn: [linkedin.com/in/lcosent](https://www.linkedin.com/in/lucacosentino/)
+LinkedIn: [linkedin.com/in/lucacosentino](https://www.linkedin.com/in/lucacosentino/) or [cosentino.me](https://www.cosentino.me)
