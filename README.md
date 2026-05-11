@@ -1,8 +1,8 @@
 ### Luca Cosentino
 
-Operator and GM. I build and scale technology-led businesses through fast growth chapters, generally in regulated environments. Twenty years across financial services and frontier technology.
+Operator and GM. Operator, GM. Technology businesses, including in regulated industries.
 
-I run a digital-assets business unit at scale today. Before that, I led product at the same institution as it grew from $500M to $1B in revenue. The kind of work I do: orchestrating technology, operations, and high-stakes stakeholder environments — boards, regulators, partners — so they move together.
+I run an agentic economy / digital-assets business unit at scale today. Before that, I led product at the same institution as it grew from $500M to $1B in revenue. 
 
 This GitHub is where I keep small, opinionated tools I build to think clearly about applied AI, frontier science, regulated systems, and decisions worth pressure-testing. Code is intentionally simple; the value is in the framing.
 
@@ -33,4 +33,4 @@ This GitHub is where I keep small, opinionated tools I build to think clearly ab
 
 ### Outside this repo
 
-LinkedIn: [linkedin.com/in/lcosent](https://www.linkedin.com/in/lcosent/)
+LinkedIn: [linkedin.com/in/lcosent](https://www.linkedin.com/in/lucacosentino/)
