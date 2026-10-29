@@ -1,6 +1,6 @@
 ### Luca Cosentino
 
-Operator and GM. Operator, GM. Technology businesses, including in regulated industries.
+Operator and GM. Technology businesses, including in regulated industries.
 
 I run an agentic economy / digital-assets business unit at scale today. Before that, I led product at the same institution as it grew from $500M to $1B in revenue. 
 
